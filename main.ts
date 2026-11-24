@@ -1,3 +1,5 @@
+// One-liner entry: the job title itself is the whole joke, so the LINE
+// constant carries the full submission verbatim — no formatting added.
 import * as fs from "node:fs";
 import * as path from "node:path";
 
